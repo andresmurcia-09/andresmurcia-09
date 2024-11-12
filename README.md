@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy @andresmurcia-09! 🌟
+# 👋 ¡Hola! 🌟
 
 Soy **Andrés Murcia**, un apasionado estudiante de **Ingeniería Informática** con una fuerte inclinación hacia el **desarrollo de software**, la **innovación tecnológica** y el **aprendizaje constante**. A través de este espacio, comparto proyectos, ideas y soluciones que van desde desarrollo **backend** hasta **análisis de datos** y más allá. 🚀💻
 
@@ -10,30 +10,37 @@ Soy **Andrés Murcia**, un apasionado estudiante de **Ingeniería Informática**
 Soy un **desarrollador autodidacta** que disfruta explorar **nuevas tecnologías**. Me apasiona cómo las herramientas digitales pueden transformar industrias y cómo podemos construir soluciones que hagan la vida más sencilla y productiva. Actualmente, estoy enfocándome en tecnologías como el **desarrollo web**, **bases de datos**, **APIs** y **machine learning**. 🌱🌍
 
 ### 🌐 **Habilidades y Herramientas que Utilizo** 🛠️
+
 #### 💻 **Lenguajes de Programación**:
-- 🐍 **Python**
-- 💻 **JavaScript**
-- 🔧 **C**
-- 🗃️ **SQL**
-- ⚙️ Conocimientos en **Bash** y programación funcional
+- 🐍 **Python**: Conocimientos en desarrollo backend, análisis de datos y automatización.  
+- 💻 **JavaScript**: Uso de **Node.js**, **React** y **Vue.js**.  
+- ☕ **Java**: Desarrollo de aplicaciones.  
+- 🗃️ **SQL**: Conocimiento en bases de datos relacionales como MySQL, PostgreSQL y optimización de consultas.  
+- ⚙️ Conocimientos en **Bash** para automatización de procesos y manejo de servidores.
 
 #### 🌍 **Desarrollo Web**:
 - **Backend**:  
-  - 🐍 **Python** (Flask, FastAPI)  
-  - 🌐 **Node.js** (Express)
+  - 🐍 **Python** (Flask, FastAPI): Creación de APIs eficientes y sistemas escalables.  
+  - 🌐 **Node.js** (Express): Desarrollo de aplicaciones backend utilizando JavaScript.  
+  - ☕ **Java** (Spring Boot): Implementación de soluciones de software robustas y seguras.  
+
 - **Frontend**:  
-  - 🖥️ **HTML**, **CSS**, **JavaScript**, **React** ⚛️
+  - 🌟 **React.js**: Desarrollo de interfaces de usuario interactivas y dinámicas.  
+  - 💅 **Vue.js**: Creación de interfaces simples y potentes para aplicaciones web.  
+  - 🎨 **HTML5, CSS3**: Maquetación web moderna y diseño responsivo.  
 
-#### 🗃️ **Bases de Datos**:
-- 🐬 **MySQL**, **SQLite**, **PostgreSQL**
-- Diseño de esquemas, **optimización** y **normalización**
+#### 🗂️ **Bases de Datos**:
+- 🗃️ **MySQL** y **PostgreSQL**: Diseño y administración de bases de datos.  
+- 🗄️ **SQLite**: Bases de datos ligeras para proyectos pequeños y pruebas locales.  
+- 🔄 **MongoDB**: Bases de datos NoSQL para proyectos que requieren flexibilidad en el esquema de datos.
 
-#### ⚙️ **Herramientas**:
-- **Git y GitHub** 🔀
-- **Docker** 🐳
-- **VS Code** ✨, **IntelliJ IDEA** 💻
-- Visualización de datos: **Matplotlib**, **Seaborn**, **Plotly** 📊
-- **Jupyter Notebooks** para análisis de datos interactivos 🧠
+#### ⚙️ **Herramientas y Tecnologías**:
+- 🛠️ **Git** y **GitHub**: Control de versiones y colaboración en proyectos.  
+- ☁️ **Docker**: Contenerización de aplicaciones para despliegue rápido y eficiente.  
+- 🖥️ **VS Code**, **IntelliJ IDEA**: Editores de código para un desarrollo ágil y eficiente.  
+- 📊 **Matplotlib**, **Seaborn**, **Plotly**: Herramientas de visualización para análisis de datos interactivos.  
+- 🔒 **JWT, OAuth**: Autenticación y autorización para aplicaciones web seguras.  
+- 📱 **RESTful APIs**: Creación de interfaces de programación que facilitan la comunicación entre sistemas.
 
 ---
 
