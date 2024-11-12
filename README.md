@@ -83,17 +83,20 @@ Estoy buscando colaborar en proyectos que aborden **problemas reales** con **tec
 
 Me encantaría conectarme con personas de todo el mundo que compartan intereses similares o que busquen una colaboración. Aquí están mis formas de contacto:
 
-- **Correo Electrónico**: [andres.murcia@example.com](mailto:andres.murcia@example.com) 📬
-- **LinkedIn**: [Andrés Murcia](https://www.linkedin.com/in/andres-murcia-09/) 🌐
+- **Correo Electrónico**: [andresmurcia0904@gmail.com](andresmurcia0904@gmail.com) 📬
+- **LinkedIn**: [Andrés Murcia](www.linkedin.com/in/andres-murcia-5040612a9) 🌐
 - **GitHub**: ¡Estás en mi perfil! 😄
 
 ---
 
-## 🥇 **Logros y Reconocimientos** 🏆
+## 🥇 **Logros y Reconocimientos**
 
-- 🎓 Certificado en **Desarrollo de APIs con FastAPI** de **Platzi**.
-- 🏆 Premio en el concurso de **Soluciones Tecnológicas de Innovación** organizado por **Universidad XYZ**.
-- 🌟 **Contribuciones a proyectos de código abierto**: He realizado aportes en repositorios de **Python** y **JavaScript**.
+- 🎓 **Diplomado en Python** de **Platzi**: Completé un curso intensivo que me permitió profundizar en el desarrollo de aplicaciones y automatización con Python. 🐍
+- 🧠 **Diploma de Pensamiento Lógico** en **Platzi**: Adquirí habilidades fundamentales en resolución de problemas y lógica matemática. 💡
+- 🖥️ **Diploma de Computación Básica** en **Platzi**: Aprendí conceptos clave sobre computadoras y programación para iniciarme en el mundo de la informática. 💻
+- 📚 **Seminario de Chatbot**: Profundicé en la creación de **chatbots inteligentes** para la atención al cliente y la automatización de procesos. 🤖
+- 🐍 **Seminario de Python**: Apliqué mis conocimientos de Python para proyectos avanzados y desarrollé aplicaciones útiles para diversos casos de uso. 💻
+- 🌐 **Seminario de Transformación Digital**: Exploro cómo las empresas pueden adaptarse y aprovechar las **tecnologías digitales** para mejorar su competitividad y eficiencia. 🌟
 
 ---
 
@@ -102,7 +105,6 @@ Me encantaría conectarme con personas de todo el mundo que compartan intereses 
 - 💡 ¡Me encanta experimentar con **gadgets tecnológicos** y **automatizar tareas** diarias!
 - 🏃‍♂️ Cuando no estoy programando, probablemente estoy jugando al **microfútbol** ⚽️ o entrenando en el gimnasio. 💪
 - 🎮 También me apasiona el mundo de los **videojuegos**, especialmente los **juegos de estrategia** y los de **realidad aumentada**. 🎮✨
-- 🍳 Me gusta probar nuevas **recetas de cocina**, especialmente si incluyen **café** ☕ o **chocolate** 🍫.
 
 ---
 
