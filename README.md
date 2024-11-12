@@ -91,7 +91,7 @@ Estoy buscando colaborar en proyectos que aborden **problemas reales** con **tec
 Me encantaría conectarme con personas de todo el mundo que compartan intereses similares o que busquen una colaboración. Aquí están mis formas de contacto:
 
 - **Correo Electrónico**: [andresmurcia0904@gmail.com](mailto:andresmurcia0904@gmail.com) 📬
-- **LinkedIn**: [Andrés Murcia](mailto:www.linkedin.com/in/andres-murcia-5040612a9) 🌐
+- **LinkedIn**: [Andrés Murcia](www.linkedin.com/in/andres-murcia-5040612a9) 🌐
 - **GitHub**: ¡Estás en mi perfil! 😄
 
 ---
