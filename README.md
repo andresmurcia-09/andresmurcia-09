@@ -98,7 +98,7 @@ Me encantaría conectarme con personas de todo el mundo que compartan intereses 
 
 ## 🥇 **Logros y Reconocimientos**
 
-- 🎓 **Diplomado en Python** de **Platzi**: Completé un curso intensivo que me permitió profundizar en el desarrollo de aplicaciones y automatización con Python. 🐍
+- 🎓 **Diplomado en Python**: Completé un curso intensivo que me permitió profundizar en el desarrollo de aplicaciones y automatización con Python. 🐍
 - 🧠 **Diploma de Pensamiento Lógico** en **Platzi**: Adquirí habilidades fundamentales en resolución de problemas y lógica matemática. 💡
 - 🖥️ **Diploma de Computación Básica** en **Platzi**: Aprendí conceptos clave sobre computadoras y programación para iniciarme en el mundo de la informática. 💻
 - 📚 **Seminario de Chatbot**: Profundicé en la creación de **chatbots inteligentes** para la atención al cliente y la automatización de procesos. 🤖
